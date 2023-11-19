@@ -10,7 +10,7 @@ https://sentamil03.github.io/Insta-react/
 
 
 
-## How To Use 
+## How To Use: 
 
 1. Click the SIGNUP button for signup
 2. Enter the email address
@@ -20,9 +20,9 @@ https://sentamil03.github.io/Insta-react/
 
 # SRS
 
-Introduction to Social Media Websites and Applications 
+Introduction to Social Media Websites and Applications:
 
- Document Conventions <br>
+ Document Conventions: <br>
 
  • Headers and Sub-headers <br>
  • Bulleted and Numbered Lists <br>
@@ -31,7 +31,7 @@ Introduction to Social Media Websites and Applications
  • Links <br>
  • Graphics and Visuals 
  
-# Scope
+# Scope:
 
  • Introduction to Social Media <br>
  • Key Features <br>
@@ -73,6 +73,20 @@ The core functions of a social media website and application include: <br>
 • Content Creators <br>
 • News Organizations <br>
 • Developer <br>
+
+#Data Requirements:
+
+<strong>User Profiles:</strong> Information provided by users, such as names, photos, interests,
+and connections.<br>
+<strong>Content:</strong> Text, images, videos, and metadata associated with user-generated 
+content.<br>
+<strong>Engagement Data:</strong> Information on user interactions, including likes, comments, 
+shares, and reactions.<br>
+<strong>Analytics Data:</strong> Data related to user behavior, traffic, and engagement to inform
+platform improvements.<br>
+<strong>Privacy Data:</strong> User preferences and privacy settings to ensure compliance with 
+data protection laws.<br>
+
 
 
 
