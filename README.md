@@ -24,55 +24,55 @@ Introduction to Social Media Websites and Applications
 
 # Document Conventions
 
- Headers and Sub-headers <br>
- Bulleted and Numbered Lists
- Emphasis
- Examples
- Links
- Graphics and Visuals
+ • Headers and Sub-headers <br>
+ • Bulleted and Numbered Lists <br>
+ • Emphasis <br>
+ • Examples <br>
+ • Links <br>
+ • Graphics and Visuals 
  
 # Scope
 
- ➜Introduction to Social Media
- ➜Key Features
- ➜Impacts and Influence
- ➜Business and Marketing
- ➜News and Information
- ➜Entertainment
- ➜Privacy and Security
- ➜Emerging Trend
+ • Introduction to Social Media <br>
+ • Key Features <br>
+ • Impacts and Influence <br> 
+ • Business and Marketing <br>
+ • News and Information <br>
+ • Entertainment <br>
+ • Privacy and Security <br>
+ • Emerging Trend <br>
 
  # Product Perspective:
  
- *The social media website and application represent a digital platform
-that facilitates social networking and content sharing. 
- *They exist within the broader landscape of the internet and the digital 
-communication industry.
- *These platforms provide a virtual environment where users can create 
+ • The social media website and application represent a digital platform
+that facilitates social networking and content sharing. <br>
+ • They exist within the broader landscape of the internet and the digital 
+communication industry. <br>
+ • These platforms provide a virtual environment where users can create 
 profiles, connect with others, share content, and engage in various forms
-of online interaction.
+of online interaction. <br>
 
 # Product Function:
 
-The core functions of a social media website and application include:
+The core functions of a social media website and application include: <br>
 
-*User Profile Creation
-*Content Sharing
-*Networking
-*Engagement
-*Privacy Controls
-*Messaging
-*Content Discovery
+• User Profile Creation <br>
+• Content Sharing <br>
+• Networking <br>
+• Engagement <br>
+• Privacy Controls <br>
+• Messaging <br>
+• Content Discovery <br>
 
-# User Classes and Characteristics:
+# User Classes and Characteristics: <br>
 
-*Social media platforms cater to a diverse range of user 
-*classes and characteristics:
-*General Users
-*Businesses
-*Content Creators
-*News Organizations
-*Developer
+• Social media platforms cater to a diverse range of user  <br>
+• classes and characteristics: <br>
+• General Users <br>
+• Businesses <br>
+• Content Creators <br>
+• News Organizations <br>
+• Developer <br>
 
 
 
