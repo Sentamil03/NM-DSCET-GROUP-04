@@ -76,7 +76,7 @@ The core functions of a social media website and application include: <br>
 • News Organizations <br>
 • Developer <br>
 
-#Data Requirements:
+# Data Requirements:
 
 <strong>User Profiles:</strong> Information provided by users, such as names, photos, interests,
 and connections.<br>
@@ -92,6 +92,16 @@ platform improvements.<br>
 
 <strong>Privacy Data:</strong> User preferences and privacy settings to ensure compliance with 
 data protection laws.<br>
+
+# External Interface Requirements for Social Media Website and Applications:
+
+ External interfaces are crucial components of social media 
+websites and applications as they determine how users interact 
+with the platform and how the platform communicates with other 
+systems.Further Slides Shows the key external interface requirements 
+for social media websites and applications, focusing on 
+Graphical User Interfaces (GUI) and system features
+
 
 
 
