@@ -18,11 +18,11 @@ https://sentamil03.github.io/Insta-react/
 4. Enter new password
 
 
-## SRS
+# SRS
 
 Introduction to Social Media Websites and Applications 
 
-# Document Conventions
+ Document Conventions <br>
 
  • Headers and Sub-headers <br>
  • Bulleted and Numbered Lists <br>
