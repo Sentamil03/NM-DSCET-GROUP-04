@@ -18,7 +18,7 @@ https://sentamil03.github.io/Insta-react/
 4. Enter new password
 
 
-# SRS
+## SRS
 
 Introduction to Social Media Websites and Applications 
 
