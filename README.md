@@ -10,69 +10,72 @@ https://sentamil03.github.io/Insta-react/
 
 
 
-## Available Scripts
+## How To Use 
 
-In the project directory, you can run:
+1. Click the SIGNUP button for signup
+2. Enter the email address
+3. Enter UNIQUE userName
+4. Enter new password
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# SRS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Introduction to Social Media Websites and Applications 
 
-### `npm test`
+#Document Conventions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ ➜Headers and Sub-headers
+ ➜Bulleted and Numbered Lists
+ ➜Emphasis
+ ➜Examples
+ ➜Links
+ ➜Graphics and Visuals
+ 
+# Scope
 
-### `npm run build`
+ ➜Introduction to Social Media
+ ➜Key Features
+ ➜Impacts and Influence
+ ➜Business and Marketing
+ ➜News and Information
+ ➜Entertainment
+ ➜Privacy and Security
+ ➜Emerging Trend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ # Product Perspective:
+ 
+ *The social media website and application represent a digital platform
+that facilitates social networking and content sharing. 
+ *They exist within the broader landscape of the internet and the digital 
+communication industry.
+ *These platforms provide a virtual environment where users can create 
+profiles, connect with others, share content, and engage in various forms
+of online interaction.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Product Function:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The core functions of a social media website and application include:
 
-### `npm run eject`
+*User Profile Creation
+*Content Sharing
+*Networking
+*Engagement
+*Privacy Controls
+*Messaging
+*Content Discovery
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# User Classes and Characteristics:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+*Social media platforms cater to a diverse range of user 
+*classes and characteristics:
+*General Users
+*Businesses
+*Content Creators
+*News Organizations
+*Developer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
