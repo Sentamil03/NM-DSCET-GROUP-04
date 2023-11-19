@@ -24,7 +24,7 @@ Introduction to Social Media Websites and Applications
 
 # Document Conventions
 
- Headers and Sub-headers
+ Headers and Sub-headers <br>
  Bulleted and Numbered Lists
  Emphasis
  Examples
