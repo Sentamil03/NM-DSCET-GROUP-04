@@ -3,7 +3,7 @@ live link of our project is
 https://sentamil03.github.io/Insta-react/
 
 # Screenshots
-<img width="512" alt="restaurantSearch" src="[module 5/Home.png](https://github.com/Sentamil03/NM-DSCET-GROUP-04/blob/9308cd5e3da1c3cc4aec8256414b42fba36ab4cb/module%205/Home.png)">
+<img width="512" alt="restaurantSearch" src="module 5/Home.png">
 <img width="510" alt="restaurantMenu" src="https://github.com/ayushchaubey17/NM-DSCET-02/assets/123767430/a7e7287f-3404-4f92-a5e1-933450bdc010">
 <img width="513" alt="restaurantInfo" src="https://github.com/ayushchaubey17/NM-DSCET-02/assets/123767430/c046854a-b7cb-4020-822d-65ad7cfec71e">
 
