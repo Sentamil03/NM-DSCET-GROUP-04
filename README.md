@@ -22,14 +22,14 @@ https://sentamil03.github.io/Insta-react/
 
 Introduction to Social Media Websites and Applications 
 
-#Document Conventions
+# Document Conventions
 
- ➜Headers and Sub-headers
- ➜Bulleted and Numbered Lists
- ➜Emphasis
- ➜Examples
- ➜Links
- ➜Graphics and Visuals
+ Headers and Sub-headers
+ Bulleted and Numbered Lists
+ Emphasis
+ Examples
+ Links
+ Graphics and Visuals
  
 # Scope
 
