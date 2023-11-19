@@ -46,8 +46,10 @@ Introduction to Social Media Websites and Applications:
  
  • The social media website and application represent a digital platform
 that facilitates social networking and content sharing. <br>
+
  • They exist within the broader landscape of the internet and the digital 
 communication industry. <br>
+
  • These platforms provide a virtual environment where users can create 
 profiles, connect with others, share content, and engage in various forms
 of online interaction. <br>
@@ -78,12 +80,16 @@ The core functions of a social media website and application include: <br>
 
 <strong>User Profiles:</strong> Information provided by users, such as names, photos, interests,
 and connections.<br>
+
 <strong>Content:</strong> Text, images, videos, and metadata associated with user-generated 
 content.<br>
+
 <strong>Engagement Data:</strong> Information on user interactions, including likes, comments, 
 shares, and reactions.<br>
+
 <strong>Analytics Data:</strong> Data related to user behavior, traffic, and engagement to inform
 platform improvements.<br>
+
 <strong>Privacy Data:</strong> User preferences and privacy settings to ensure compliance with 
 data protection laws.<br>
 
